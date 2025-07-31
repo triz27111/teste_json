@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 30px;
+  }
+
+  h1 {
+    margin-bottom: 30px;
+  }
+
+  .slideshow {
+    position: relative;
+    width: 800px;
+    max-width: 90%;
+    margin: auto;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  }
+
+  .slide {
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+
+  .slide img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+
+  .ativo {
+    display: block;
+    animation: fade 1s;
+  }
+
+  @keyframes fade {
+    from {opacity: 0.4;}
+    to {opacity: 1;}
+  }
+
+  .titulo {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+    padding: 10px;
+    font-weight: bold;
+  }
+
+  .controles {
+    margin-top: 20px;
+  }
+
+  .botao {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .botao:hover {
+    background-color: #0056b3;
+  }
