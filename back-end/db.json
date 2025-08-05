@@ -2,18 +2,18 @@
     "fotos": [
         {
             "id": 1,
-            "imagem":  "https://drive.google.com/file/d/1jqyXfRuwVJxZH3HMDwtaR9Lqgbh6MfjG/view?usp=drive_link",
+            "imagem":  "https://drive.google.com/uc?export=view&id=1jqyXfRuwVJxZH3HMDwtaR9Lqgbh6MfjG/view?usp=drive_link",
             "legenda": "Os intervalos da tarde sempre são aqui",
             "data":    "31-07-2025"
         },
         {
             "id": 2,
-            "imagem":  "https://drive.google.com/file/d/1pXA8JZGQjXlnye-kcw6i4lQM0JaUypk7/view?usp=drive_link",
+            "imagem":  "https://drive.google.com/uc?export=view&id=1pXA8JZGQjXlnye-kcw6i4lQM0JaUypk7/view?usp=drive_link",
             "legenda": "Eu e as meninas gostamos de ficar no banheiro da mecanica",
             "data":    "31-07-2025"
         },{
             "id": 3,
-            "imagem": "https://drive.google.com/file/d/1jApwMD-Dk-kN1egWXtHYk8ci0l5R7aky/view?usp=drive_link",
+            "imagem": "https://drive.google.com/uc?export=view&id=1jApwMD-Dk-kN1egWXtHYk8ci0l5R7aky/view?usp=drive_link",
             "legenda": "Gosto dessa vista",
             "data": "31-07-2025"
         },{
